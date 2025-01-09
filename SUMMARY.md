@@ -1,11 +1,10 @@
 # Table of contents
 
-* [Welcome](README.md)
+* [Welcome to Spore Fun](README.md)
 
 ## Getting Started
 
 * [Quickstart](getting-started/quickstart.md)
-* [Publish your docs](getting-started/publish-your-docs.md)
 
 ## Basics
 
